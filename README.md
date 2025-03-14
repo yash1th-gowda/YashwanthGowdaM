@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that bri
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanthg0wda/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/yash1th-gowda))  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash1th-gowda)  
 📫 **Email:** yash1thgowda2005@gmail.com  
 
 ---
