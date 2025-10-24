@@ -46,6 +46,6 @@ Currently developing an **AI-powered mobile application** focused on automation 
 
 ---
 
-### ✨ “Learning never exhausts the mind.” — Leonardo da Vinci  
+### ✨ “Learning never exhausts the mind.”
 
 ⭐️ *Feel free to check out my repositories and connect — always open to collaborations and new ideas!*  
